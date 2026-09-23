@@ -22,4 +22,4 @@ https://www.coursera.org/projects/perform-exploratory-data-analysis-on-retail-da
 Online Retail Store's Owners
 
 ### Aided By:
-Gemini
+Google Gemini
