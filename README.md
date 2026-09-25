@@ -23,3 +23,6 @@ Online Retail Store's Owners
 
 ### Aided By:
 Google Gemini
+
+### Status:
+In progress
